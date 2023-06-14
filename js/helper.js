@@ -1,4 +1,3 @@
-//待修改
 $(document).ready(function() {
     $('body').on('dialogopen', function(event, ui) {
         var $popup = $(event.target);
