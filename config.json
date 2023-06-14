@@ -1,5 +1,5 @@
 {
-    "name": "Image File Plugin",
+    "name": "File Type Plugin",
     "namespace": "Huashan\\FileTypePlugin",
     "description": "An action tag for file type field to specify the default IMME type for uploading. For example: @FILETYPE='image/*' will make the preferred file format for uploading is image files.",
     "permissions": [
