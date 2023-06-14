@@ -11,10 +11,10 @@ $(document).ready(function() {
                 return false;
             }
         }
-        //定制申明
+      
         // Aux function that checks if text matches the "@HIDECHOICE" string.
         var isDefaultLabelColumn = function() {
-            return $(this).text() === '@CALCDATE';
+            return $(this).text() === '@FORCE-MINMAX';
         }
 
         // Getting @HIDECHOICE row from action tags help table.
