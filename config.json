@@ -12,8 +12,5 @@
             "institution": "Huashan Hospital of Fudan University"
         }
     ],
-    "compatibility": {
-        "redcap-version-min": "8.0.3"
-    }
-    
+   "framework-version": 10
 }
