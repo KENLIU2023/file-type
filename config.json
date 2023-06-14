@@ -1,0 +1,19 @@
+{
+    "name": "Image File Plugin",
+    "namespace": "Huashan\\FileTypePlugin",
+    "description": "An action tag for file type field to specify the default IMME type for uploading. For example: @FILETYPE='image/*' will make the preferred file format for uploading is image files.",
+    "permissions": [
+        "redcap_every_page_top"
+    ],
+    "authors": [
+        {
+            "name": "Congjin LIU",
+            "email": "liucongjin@fudan.edu.cn",
+            "institution": "Huashan Hospital of Fudan University"
+        }
+    ],
+    "compatibility": {
+        "redcap-version-min": "8.0.3"
+    }
+    
+}
